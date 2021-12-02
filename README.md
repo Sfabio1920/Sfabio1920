@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sfabio1920
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Java programming language
-- 👯 I’m collaborating with @AleP04
+- 👯 I’m collaborating with [@AleP04](https://github.com/AleP04)
 - 💞️ I’m looking to collaborate on many projects
 - 📫 How to reach me: salomonfabio1920@gmail.com
 
